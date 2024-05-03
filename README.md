@@ -39,6 +39,7 @@ $ npm install
 $ npm run start
 
 # watch mode
+npx typeorm migration:run
 $ npm run start:dev
 
 # production mode
